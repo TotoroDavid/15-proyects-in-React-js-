@@ -1,19 +1,4 @@
-#### Tutorial Video
-
-(React Tutorial)[https://youtu.be/iZhV0bILFb0]
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
-
-## Corresponding Tutorial Topics
-
-#### useState
-
 1. Birthday Reminder
-
-#### useEffect and Conditional Rendering
-
 2. Tours
 3. Reviews
 4. Questions
